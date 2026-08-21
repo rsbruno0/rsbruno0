@@ -61,8 +61,10 @@ I also share knowledge on **software development, SaaS, and web projects**.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsbruno0&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=rsbruno0&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=rsbruno0&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </p>
 
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.azurewebsites.net/api?username=rsbruno0&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas GitHub" />
+</p>
 
