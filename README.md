@@ -56,7 +56,7 @@ I also share knowledge on **software development, SaaS, and web projects**.
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 
-
+---
 
 ## 📊 GitHub Stats
 
