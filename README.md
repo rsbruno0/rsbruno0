@@ -64,3 +64,6 @@ I also share knowledge on **software development, SaaS, and web projects**.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" />
 </p>
+
+
+
